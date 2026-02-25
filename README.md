@@ -2,26 +2,11 @@
 
 > A fully-featured, terminal-based music player built for **Android Termux** — with real-time braille visualizer, synced lyrics, multi-format decoding, and a fully customizable color system. All running inside your terminal, no GUI required.
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  ▶  NAME     : Lily                  │  Lily was a little girl               ║
-║     ARTIST   : Alan Walker           │  Afraid of the big, wide world        ║
-║     ALBUM    : Different World       │  She grew up within her castle walls  ║
-║     FORMAT   : mp3                   │       Now and then she tried to run   ║
-║     DURATION : 195s                  │  She went in the woods away           ║
-║     YEAR     : 2018                  │  So afraid, all alone                 ║
-╠══════════════════════════════════════╧═══════════════════════════════════════╣
-║  [########################################-----------]  [ 67%] [02:10/03:15] ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║   ···⣀⣀⣤⣤⣶⣶⣿⣿⣿⣶⣶⣤⣤⣀···       ···⣀⣤⣶⣿⣿⣿⣶⣤⣀···                                 ║
-║  ⣀⣤⣤⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣤⣤⣀   ⣀⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣀                                        ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║ > Alan Walker - Lily.mp3                                                     ║
-║ > Alan Walker - Faded.mp3                                                    ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  P=play/pause  R=repeat  1/2=vol  /=search  I=import  S=settings  Q=quit     ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+### Settings Panel
+![Settings Panel](./Screenshot_20260225_151647.jpg)
+
+### Music Player
+![Music Player](./Screenshot_20260225_175540.jpg)
 
 ---
 
